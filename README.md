@@ -6,7 +6,7 @@
 
 2) Ejecutar la aplicación node app.js
 
-# Tecnologias
+# Tecnologias:
 
 1) Node JS 10.11.0
 
